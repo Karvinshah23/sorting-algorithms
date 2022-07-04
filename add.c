@@ -16,3 +16,8 @@ void mul(int a,int b)
         int c=a*b;
         printf("%d",c)
 }
+void div(int a,int b)
+{
+        int c=a/b;
+        printf("%d",c)
+}
