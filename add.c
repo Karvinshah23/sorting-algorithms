@@ -11,9 +11,9 @@ void sub(int a1,int b1)
         int y=a-b;
         printf("%d",y);
 }
-void mul(int a,int b)
+void div(int a,int b)
 {
-        int c=a*b;
+        int c=a/b;
         printf("%d",c)
 }
 
