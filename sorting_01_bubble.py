@@ -18,4 +18,4 @@ print(list1)
 l.sort()
 print("l",l)
 
-
+//programe ends
